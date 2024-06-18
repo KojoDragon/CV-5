@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(48, 2, 88);
+}
+
+body {
+    color: rgb(110, 1, 1);
+    background: linear-gradient(rgb(2, 220, 220), rgb(234, 153, 3));
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vh;
+    margin: 20px;
+    padding: 20px;
+    border: rgb(0, 229, 255) solid 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7vh;
+    padding: 0px 0px 10px 0px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vh;
+    text-transform:uppercase;
+    text-shadow: rgb(0, 0, 0) 2px 2px; /* Text shadow */
+    padding: 0px 0px 10px 0px;
+}
+
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vh;
+}
+
+img {
+    border: rgb(2, 2, 142);
+    border-radius: 50%;
+}
+
+section {
+    margin: 30px auto;
+}
